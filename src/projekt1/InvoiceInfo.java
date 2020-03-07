@@ -24,7 +24,7 @@ public class InvoiceInfo {
 		System.out.println("Średnia wartość faktury: "+Arrays.stream(InvoiceValues).average().orElse(Double.NaN)+" zł");
 	}
 	
-
+//fake koment
 
 }
 
