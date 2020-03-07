@@ -45,7 +45,7 @@ public class PriceInfo {
 		 return 1;
 	}
 	
-
+//fake comment
 }
 
 
